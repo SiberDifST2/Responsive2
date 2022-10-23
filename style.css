@@ -97,6 +97,7 @@ header video {
     left: 0;
     object-fit: cover;
     z-index: -2;
+    height: 200%;
 }
 
 header .intro {
